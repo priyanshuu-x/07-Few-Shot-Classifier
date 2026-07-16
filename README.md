@@ -8,10 +8,7 @@ Instead of training a machine learning model, the LLM learns from a few examples
 
 ## 📷 Demo
 
-<p align="center">
-  <img src="./image/output.png" alt="Demo" width="800"/>
-</p>
----
+![Demo](image/output.png)
 
 ## 🚀 Features
 
